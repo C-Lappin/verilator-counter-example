@@ -1,0 +1,27 @@
+[*]
+[*] GTKWave Analyzer v3.3.86 (w)1999-2017 BSI
+[*] Fri Feb 26 11:32:47 2021
+[*]
+[dumpfile] "/home/ciaran/Projects/Verilator_tutorial/verilator-counter-example/counter_output.vcd"
+[dumpfile_mtime] "Fri Feb 26 11:29:38 2021"
+[dumpfile_size] 3780
+[savefile] "/home/ciaran/Projects/Verilator_tutorial/verilator-counter-example/counter_waveform.gtkw"
+[timestart] 8
+[size] 1611 600
+[pos] -1 -1
+*-8.345833 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1
+[treeopen] TOP.
+[sst_width] 223
+[signals_width] 110
+[sst_expanded] 1
+[sst_vpaned_height] 152
+@28
+TOP.counter.clock
+@22
+TOP.counter.count[7:0]
+@28
+TOP.counter.out1
+TOP.counter.reset
+TOP.out1
+[pattern_trace] 1
+[pattern_trace] 0

@@ -18,4 +18,4 @@ counter_tb: ./csrc/counter.cpp obj_dir/Vcounter__ALL.a
 
 .PHONY: clean
 clean:
-	rm -rf obj_dir/ counter/ counter_tb counter.vcd
+	rm -rf obj_dir/ counter/ counter_tb counter_output.vcd
